@@ -2,6 +2,7 @@
 该项目是用来预览各类office文档的，目前可以将office文档转换成pdf或者html格式进行预览，还在不断的更新中，可以通过其他方式进行预览
 
   一、请求URL：
+      
       1、http://ip:port/xoffice/xoffice?_key=false&_xformat=doc&_format=html&_file=需要预览的文档链接
 
       参数说明：(1)_key 是否清除服务器上的缓存文件，因为在预览的过程中，会产生用来预览的pdf或html等文件，可以提高访问的效率，

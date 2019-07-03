@@ -1,0 +1,2 @@
+# xoffice-parent
+该项目是用来预览各类office文档的，目前可以将office文档转换成pdf或者html格式进行预览，还在不断的更新中，可以通过其他方式进行预览
